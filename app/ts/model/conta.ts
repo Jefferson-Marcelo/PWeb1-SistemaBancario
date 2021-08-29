@@ -1,4 +1,4 @@
-class Conta {
+export class Conta {
 
     private _numero: string;
     private _saldo: number;

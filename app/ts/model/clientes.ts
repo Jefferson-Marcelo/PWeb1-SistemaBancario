@@ -1,4 +1,4 @@
-class Clientes{
+export class Clientes{
     private clientes: Array<Cliente>;
 
     constructor(){

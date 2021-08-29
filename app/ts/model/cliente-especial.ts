@@ -1,3 +1,5 @@
+import {Clientes} from './clientes'
+
 class ClienteEspecial extends Cliente {
     private dependentes : Clientes;
 
